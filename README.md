@@ -32,4 +32,4 @@ Find word with:
 
 All words contain "est" in them, regardless of their position
 
-The wordlist  words.txt can be replaced or modified with any custom wordlist depending on user preference, yhe default wordlist is a basic dictionary wordlist
+The wordlist  words.txt can be replaced or modified with any custom wordlist depending on user preference, the default wordlist is a basic dictionary wordlist
