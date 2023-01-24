@@ -77,9 +77,9 @@ public class WordFinder {
 				}
 				
 				else {
-					for (String s : words) {
-						if (s.contains(search)) {
-							matches.add(s);
+					for (String word : words) {
+						if (word.contains(search)) {
+							matches.add(word);
 						}
 					}
 					
