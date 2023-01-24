@@ -4,7 +4,7 @@
  * 
  * Usable in "Word-Bomb" style games
  * 
- * @author Daniel Dowlin and Mirahn Alshamry
+ * @author Mirahn Alshamry, Daniel Dowlin
  */
 
 import java.io.File;
@@ -20,9 +20,14 @@ public class WordFinder {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner scanner = new Scanner(new File("words.txt"));
 		ArrayList<String> words = new ArrayList<String>();
+		while (scanner.hasNext()) {
+			String currentWord = scanner.nextLine();
+			words.add(currentWord);
+		}	
 		
 		while (scanner.hasNext()) {
 			String currentWord = scanner.nextLine();
+			words.add(currentWord);
 			for (String str : words) {
 				if (!str.contains(currentWord)); {
 					words.add(currentWord.replace("'", ""));
