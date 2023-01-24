@@ -92,7 +92,7 @@ public class WordFinder {
 						Collections.reverse(matches);
 					}
 					if (matches.size()==0) {
-						System.out.println(search + "\nNo words found");
+						System.out.println("No words found with " + search);
 					}
 					else {
 						for (String s : matches) {
