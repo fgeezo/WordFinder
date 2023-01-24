@@ -45,7 +45,7 @@ public class WordFinder {
 		while(true) {
 			try {
 				ArrayList<String> matches = new ArrayList<String>();
-				System.out.println("Find word with: ");
+				System.out.print("Find word with: ");
 				String search = input.nextLine();
 				
 				if (search.contains("1")) {
