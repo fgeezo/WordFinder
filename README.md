@@ -18,17 +18,28 @@ Enter 1 to sort words from shortest to longest in terms of character length, and
 
 Example Console:
 
-Find words with: est\n
-antidisestablishmentarianism\n
-antidisestablishmentarian\n
-disestablishmentarianism\n
-disestablismentarianism\n
+Find words with: est
+
+antidisestablishmentarianism
+
+antidisestablishmentarian
+
+disestablishmentarianism
+
+disestablismentarianism
+
 disestablishmentarian
+
 ...
+
 Find word with: 1
+
 Now sorting from shortest to longest.
+
 Find word with: 2
+
 Now sorting from longest to shortest.
+
 Find word with: 
 
 All words contain "est" in them, regardless of their position
