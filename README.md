@@ -1,7 +1,9 @@
 WordFinder Program, good for "Word-Bomb" type games such as:
 
 https://jklm.fun/
+
 https://www.airconsole.com/play/card-games/word-bomb
+
 https://www.roblox.com/games/2653064683/Word-Bomb
 
 Lists all dictionary words containing a substring of user-inputed text in any position. 
