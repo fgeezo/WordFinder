@@ -18,11 +18,11 @@ Enter 1 to sort words from shortest to longest in terms of character length, and
 
 Example Console:
 
-Find words with: est
-antidisestablishmentarianism
-antidisestablishmentarian
-disestablishmentarianism
-disestablismentarianism
+Find words with: est\n
+antidisestablishmentarianism\n
+antidisestablishmentarian\n
+disestablishmentarianism\n
+disestablismentarianism\n
 disestablishmentarian
 ...
 Find word with: 1
